@@ -1,0 +1,5 @@
+﻿{
+  "HostName": "localhost",
+  "Port": 50001,
+  "CorsPolicies": []
+}
